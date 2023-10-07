@@ -1,0 +1,493 @@
+Searching 70 files for "<= 500px"
+
+~/Desktop/backup/cocoa/src/global.styled.js:
+   57        color: #777;
+   58  
+   59:       @media (width <= 500px) {
+   60           line-height: 1.35;
+   61        }
+
+~/Desktop/backup/cocoa/src/components/About/About.styled.js:
+   15     z-index: 1;
+   16  
+   17:    @media (width <= 500px) {
+   18        padding: 2em 0;
+   19        background: none;
+   ..
+   41     }
+   42  
+   43:    @media (width <= 500px) {
+   44        transform: none;
+   45        max-width: 100%;
+   ..
+   57     right: -10%;
+   58  
+   59:    @media (width <= 500px) {
+   60        bottom: 5%;
+   61        right: -15%;
+
+~/Desktop/backup/cocoa/src/components/Banner/Banner.styled.js:
+    6     position: relative;
+    7  
+    8:    @media (width <= 500px) {
+    9        background: #333;
+   10        height: 100vh;
+   ..
+   20     padding-top: 3em;
+   21  
+   22:    @media (width <= 500px) {
+   23        padding: 0;
+   24     }
+   ..
+   51  
+   52     // Query
+   53:    @media (width <= 500px) {
+   54        width: 100%;
+   55        height: 100%;
+   ..
+  100     }
+  101  
+  102:    @media (width <= 500px) {
+  103        display: flex;
+  104        flex-direction: column;
+
+~/Desktop/backup/cocoa/src/components/Consultation/Consultation.styled.js:
+   16     }
+   17  
+   18:    @media (width <= 500px) {
+   19        display: block;
+   20     }
+   ..
+   49     }
+   50  
+   51:    @media (width <= 500px) {
+   52        padding: 2em;
+   53        transform: none;
+
+~/Desktop/backup/cocoa/src/components/Contacts/Contacts.styled.js:
+    4     padding: 3em 0;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 0;
+    8     }
+    .
+   13     justify-content: space-between;
+   14  
+   15:    @media (width <= 500px) {
+   16        flex-direction: column;
+   17        gap: 2em;
+   ..
+   53        }
+   54  
+   55:       @media (width <= 500px) {
+   56           transform: none;
+   57        }
+
+~/Desktop/backup/cocoa/src/components/HotTours/HotTours.styled.js:
+   23     }
+   24  
+   25:    @media (width <= 500px) {
+   26        padding: 3em 0;
+   27        flex-direction: column;
+   ..
+   53     }
+   54  
+   55:    @media (width <= 500px) {
+   56        transform: none;
+   57     }
+
+~/Desktop/backup/cocoa/src/components/Reliability/Reliability.styled.js:
+   16     justify-content: space-between;
+   17  
+   18:    @media (width <= 500px) {
+   19        padding-top: 3em;
+   20     }
+   ..
+   54     }
+   55  
+   56:    @media (width <= 500px) {
+   57        display: none;
+   58     }
+
+~/Desktop/backup/cocoa/src/components/Services/Services.styled.js:
+    4     padding: 5em 0 1em;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 2em 0;
+    8     }
+    .
+   13     align-items: center;
+   14  
+   15:    @media (width <= 500px) {
+   16        display: block;
+   17     }
+   ..
+   32     }
+   33  
+   34:    @media (width <= 500px) {
+   35        max-width: 100%;
+   36        margin-top: 3em;
+   ..
+   79     }
+   80  
+   81:    @media (width <= 500px) {
+   82        transform: none !important;
+   83        margin: 0 auto;
+
+~/Desktop/backup/cocoa/src/components/shared/Footer/Footer.styled.js:
+    5     background-color: #fafafa;
+    6  
+    7:    @media (width <= 500px) {
+    8        background: orange;
+    9        margin-top: -2em;
+   ..
+   22     }
+   23  
+   24:    @media (width <= 500px) {
+   25        flex-direction: column;
+   26        padding-top: 1.5em;
+   ..
+   46     }
+   47  
+   48:    @media (width <= 500px) {
+   49        width: fit-content;
+   50        margin: 1em auto 0;
+
+~/Desktop/backup/cocoa/src/components/shared/SectionHeading/SectionHeading.styled.js:
+   15     }
+   16  
+   17:    @media (width <= 500px) {
+   18        h2 {
+   19           font-size: 24px;
+
+25 matches across 10 files
+
+
+Searching 70 files for "<= 500px"
+
+~/Desktop/backup/cocoa/src/global.styled.js:
+   57        color: #777;
+   58  
+   59:       @media (width <= 500px) {
+   60           line-height: 1.35;
+   61        }
+
+~/Desktop/backup/cocoa/src/components/About/About.styled.js:
+   15     z-index: 1;
+   16  
+   17:    @media (width <= 500px) {
+   18        padding: 2em 0;
+   19        background: none;
+   ..
+   41     }
+   42  
+   43:    @media (width <= 500px) {
+   44        transform: none;
+   45        max-width: 100%;
+   ..
+   57     right: -10%;
+   58  
+   59:    @media (width <= 500px) {
+   60        bottom: 5%;
+   61        right: -15%;
+
+~/Desktop/backup/cocoa/src/components/Banner/Banner.styled.js:
+    6     position: relative;
+    7  
+    8:    @media (width <= 500px) {
+    9        background: #333;
+   10        height: 100vh;
+   ..
+   20     padding-top: 3em;
+   21  
+   22:    @media (width <= 500px) {
+   23        padding: 0;
+   24     }
+   ..
+   51  
+   52     // Query
+   53:    @media (width <= 500px) {
+   54        width: 100%;
+   55        height: 100%;
+   ..
+  100     }
+  101  
+  102:    @media (width <= 500px) {
+  103        display: flex;
+  104        flex-direction: column;
+
+~/Desktop/backup/cocoa/src/components/Consultation/Consultation.styled.js:
+   16     }
+   17  
+   18:    @media (width <= 500px) {
+   19        display: block;
+   20     }
+   ..
+   49     }
+   50  
+   51:    @media (width <= 500px) {
+   52        padding: 2em;
+   53        transform: none;
+
+~/Desktop/backup/cocoa/src/components/Contacts/Contacts.styled.js:
+    4     padding: 3em 0;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 0;
+    8     }
+    .
+   13     justify-content: space-between;
+   14  
+   15:    @media (width <= 500px) {
+   16        flex-direction: column;
+   17        gap: 2em;
+   ..
+   53        }
+   54  
+   55:       @media (width <= 500px) {
+   56           transform: none;
+   57        }
+
+~/Desktop/backup/cocoa/src/components/HotTours/HotTours.styled.js:
+   23     }
+   24  
+   25:    @media (width <= 500px) {
+   26        padding: 3em 0;
+   27        flex-direction: column;
+   ..
+   53     }
+   54  
+   55:    @media (width <= 500px) {
+   56        transform: none;
+   57     }
+
+~/Desktop/backup/cocoa/src/components/Reliability/Reliability.styled.js:
+   16     justify-content: space-between;
+   17  
+   18:    @media (width <= 500px) {
+   19        padding-top: 3em;
+   20     }
+   ..
+   54     }
+   55  
+   56:    @media (width <= 500px) {
+   57        display: none;
+   58     }
+
+~/Desktop/backup/cocoa/src/components/Services/Services.styled.js:
+    4     padding: 5em 0 1em;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 2em 0;
+    8     }
+    .
+   13     align-items: center;
+   14  
+   15:    @media (width <= 500px) {
+   16        display: block;
+   17     }
+   ..
+   32     }
+   33  
+   34:    @media (width <= 500px) {
+   35        max-width: 100%;
+   36        margin-top: 3em;
+   ..
+   79     }
+   80  
+   81:    @media (width <= 500px) {
+   82        transform: none !important;
+   83        margin: 0 auto;
+
+~/Desktop/backup/cocoa/src/components/shared/Footer/Footer.styled.js:
+    5     background-color: #fafafa;
+    6  
+    7:    @media (width <= 500px) {
+    8        background: orange;
+    9        margin-top: -2em;
+   ..
+   22     }
+   23  
+   24:    @media (width <= 500px) {
+   25        flex-direction: column;
+   26        padding-top: 1.5em;
+   ..
+   46     }
+   47  
+   48:    @media (width <= 500px) {
+   49        width: fit-content;
+   50        margin: 1em auto 0;
+
+~/Desktop/backup/cocoa/src/components/shared/SectionHeading/SectionHeading.styled.js:
+   15     }
+   16  
+   17:    @media (width <= 500px) {
+   18        h2 {
+   19           font-size: 24px;
+
+25 matches across 10 files
+
+
+Searching 70 files for "<= 500px"
+
+~/Desktop/backup/cocoa/src/global.styled.js:
+   57        color: #777;
+   58  
+   59:       @media (width <= 500px) {
+   60           line-height: 1.35;
+   61        }
+
+~/Desktop/backup/cocoa/src/components/About/About.styled.js:
+   15     z-index: 1;
+   16  
+   17:    @media (width <= 500px) {
+   18        padding: 2em 0;
+   19        background: none;
+   ..
+   41     }
+   42  
+   43:    @media (width <= 500px) {
+   44        transform: none;
+   45        max-width: 100%;
+   ..
+   57     right: -10%;
+   58  
+   59:    @media (width <= 500px) {
+   60        bottom: 5%;
+   61        right: -15%;
+
+~/Desktop/backup/cocoa/src/components/Banner/Banner.styled.js:
+    6     position: relative;
+    7  
+    8:    @media (width <= 500px) {
+    9        background: #333;
+   10        height: 100vh;
+   ..
+   20     padding-top: 3em;
+   21  
+   22:    @media (width <= 500px) {
+   23        padding: 0;
+   24     }
+   ..
+   51  
+   52     // Query
+   53:    @media (width <= 500px) {
+   54        width: 100%;
+   55        height: 100%;
+   ..
+  100     }
+  101  
+  102:    @media (width <= 500px) {
+  103        display: flex;
+  104        flex-direction: column;
+
+~/Desktop/backup/cocoa/src/components/Consultation/Consultation.styled.js:
+   16     }
+   17  
+   18:    @media (width <= 500px) {
+   19        display: block;
+   20     }
+   ..
+   49     }
+   50  
+   51:    @media (width <= 500px) {
+   52        padding: 2em;
+   53        transform: none;
+
+~/Desktop/backup/cocoa/src/components/Contacts/Contacts.styled.js:
+    4     padding: 3em 0;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 0;
+    8     }
+    .
+   13     justify-content: space-between;
+   14  
+   15:    @media (width <= 500px) {
+   16        flex-direction: column;
+   17        gap: 2em;
+   ..
+   53        }
+   54  
+   55:       @media (width <= 500px) {
+   56           transform: none;
+   57        }
+
+~/Desktop/backup/cocoa/src/components/HotTours/HotTours.styled.js:
+   23     }
+   24  
+   25:    @media (width <= 500px) {
+   26        padding: 3em 0;
+   27        flex-direction: column;
+   ..
+   53     }
+   54  
+   55:    @media (width <= 500px) {
+   56        transform: none;
+   57     }
+
+~/Desktop/backup/cocoa/src/components/Reliability/Reliability.styled.js:
+   16     justify-content: space-between;
+   17  
+   18:    @media (width <= 500px) {
+   19        padding-top: 3em;
+   20     }
+   ..
+   54     }
+   55  
+   56:    @media (width <= 500px) {
+   57        display: none;
+   58     }
+
+~/Desktop/backup/cocoa/src/components/Services/Services.styled.js:
+    4     padding: 5em 0 1em;
+    5  
+    6:    @media (width <= 500px) {
+    7        padding: 2em 0;
+    8     }
+    .
+   13     align-items: center;
+   14  
+   15:    @media (width <= 500px) {
+   16        display: block;
+   17     }
+   ..
+   32     }
+   33  
+   34:    @media (width <= 500px) {
+   35        max-width: 100%;
+   36        margin-top: 3em;
+   ..
+   79     }
+   80  
+   81:    @media (width <= 500px) {
+   82        transform: none !important;
+   83        margin: 0 auto;
+
+~/Desktop/backup/cocoa/src/components/shared/Footer/Footer.styled.js:
+    5     background-color: #fafafa;
+    6  
+    7:    @media (width <= 500px) {
+    8        background: orange;
+    9        margin-top: -2em;
+   ..
+   22     }
+   23  
+   24:    @media (width <= 500px) {
+   25        flex-direction: column;
+   26        padding-top: 1.5em;
+   ..
+   46     }
+   47  
+   48:    @media (width <= 500px) {
+   49        width: fit-content;
+   50        margin: 1em auto 0;
+
+~/Desktop/backup/cocoa/src/components/shared/SectionHeading/SectionHeading.styled.js:
+   15     }
+   16  
+   17:    @media (width <= 500px) {
+   18        h2 {
+   19           font-size: 24px;
+
+25 matches across 10 files
